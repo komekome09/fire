@@ -1,7 +1,7 @@
 int height = 60;
 int width = 100;
-int unitx = width/2;
-int unity = height/2;
+int unitx = width/1;
+int unity = height/1;
 int fire[][] = new int[unitx][unity];
 
 void settings(){
