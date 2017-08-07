@@ -1,5 +1,5 @@
-int height = 600;
-int width = 1000;
+int height = 60;
+int width = 100;
 int unitx = width/2;
 int unity = height/2;
 int fire[][] = new int[unitx][unity];
