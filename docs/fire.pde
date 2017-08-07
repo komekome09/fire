@@ -4,11 +4,8 @@ int unitx = width/1;
 int unity = height/1;
 int fire[][] = new int[unitx][unity];
 
-void settings(){
-  size(width, height);
-}
-
 void setup(){
+  size(width, height);
   frameRate(60);
 }
 
